@@ -1,0 +1,8 @@
+export const TOTAL_DATA = 'TOTAL_DATA'
+export const TOTAL_ORDERS = 'TOTAL_ORDERS'
+export const UPLOAD_SLIDER_BTN = 'UPLOAD_SLIDER_BTN'
+export const IMAGE_UPLOAD = 'IMAGE_UPLOAD'
+export const SLIDER_IMAGES = 'SLIDER_IMAGES'
+export const LOADING = 'LOADING'
+export const DELETE_IMAGE = 'DELETE_IMAGE'
+export const UPLOAD_IMAGE = 'UPLOAD_IMAGE'
